@@ -1,6 +1,6 @@
-# 🛰️ Network Packet Analyzer (Task-05)
+# 🛰️ Network Packet Analyzer 
 
-A lightweight **Python-based packet sniffer tool** developed as part of my cybersecurity internship at **Prodigy InfoTech**. This tool captures and analyzes live network packets, displaying key metadata such as IP addresses, protocols, and a preview of payloads — useful for network monitoring and educational exploration.
+A lightweight **Python-based packet sniffer tool**. This tool captures and analyzes live network packets, displaying key metadata such as IP addresses, protocols, and a preview of payloads — useful for network monitoring and educational exploration.
 
 ---
 
