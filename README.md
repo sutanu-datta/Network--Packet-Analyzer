@@ -14,14 +14,6 @@ A lightweight **Python-based packet sniffer tool**. This tool captures and analy
 - 🧠 Terminal-based interface
 - 🛡️ Developed for **ethical use only** and educational purposes
 
----
-
-## 🧠 What I Learned
-
-- Working with low-level network traffic in Python
-- Using Scapy for packet manipulation
-- Identifying and classifying IP protocols
-- Building responsible cybersecurity tools
 
 ---
 
